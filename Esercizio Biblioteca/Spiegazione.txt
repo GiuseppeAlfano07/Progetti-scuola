@@ -1,0 +1,21 @@
+Il progetto è stato eseguito in modo da essere un gestionale pronto all'uso per una biblioteca reale e non solo come esercizio scolastico.
+Il software principale è pensato per essere installato in biblioteca ed essere usato esclusivamente dal bibliotecario che assumerà il ruolo di admin
+In oltre è presente l'accesso dell'utente che simula un accesso da remoto su un altro sito web dove ogni utente può consultare i libri che ha in prestito al momento e vedere quanti giorni mancano alla scadenza del suo prestito.
+Feature:
+ADMIN --> 1.Possibilità di aggiungere, cancellare e modificare libri nel database (realisticamente anche la possibilità di fare un'inventario dei libri).
+		2.Possibilità di aggiungere un nuovo prestito in locale (simula il caso dove un utente si reca fisicamente in biblioteca e richiede un prestito che verrà 				aggiunto direttamente sul software dal bibliotecario.
+		3.Possibilità di mandare una mail di sollecito ad un utente alla è scaduto il prestito di un determinato libro.
+		4.Possibilità di consultare lo storico dei prestiti di tutti gli utenti.
+		5.Possibilità di rifiutare con motivazione una richiesta di prestito fatta da remoto.
+
+UTENTE --> 1.Possibilità di consultare i libri disponibili in biblioteca.
+		2.Possibilità di richiedere un prestito da remoto.
+		3.Possibilità di visualizzare i suoi prestiti, sia quelli in corso che quelli rifiutati o terminati.
+
+
+GENERALI --> 1.Registrazione & Login.
+			2.Modifica dati utenti.
+
+Il codice è interamente commentato per facilitarne la lettura a tutti, a livello grafico ho utilizzato il framework "PicoCSS" ed il progetto è stato interamente fatto da me senza l'utilizzo di alcuna ai, ad  eccezione del logo che è stato creato da ClaudeCode.
+Sicuramente avrò dimenticato qualcosa, lo pubblico con la speranza che possa essere utile a qualcuno che debba eseguire la mia stessa consegna.
+		

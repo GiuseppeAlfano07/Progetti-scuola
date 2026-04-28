@@ -1,0 +1,12 @@
+INSERT INTO libri (titolo, autore, editore, prezzo, isbn, n_pagine, genere) VALUES ('Il Nome della Rosa', 'Umberto Eco', 'Bompiani', 12.90, '9788845292613', 502, 'Romanzo storico');
+INSERT INTO libri (titolo, autore, editore, prezzo, isbn, n_pagine, genere) VALUES ('1984', 'George Orwell', 'Mondadori', 9.90, '9788804668237', 328, 'Distopico');
+INSERT INTO libri (titolo, autore, editore, prezzo, isbn, n_pagine, genere) VALUES ('Il Piccolo Principe', 'Antoine de Saint-Exupery', 'Bompiani', 7.90, '9788845292614', 96, 'Narrativa');
+INSERT INTO libri (titolo, autore, editore, prezzo, isbn, n_pagine, genere) VALUES ('Harry Potter e la Pietra Filosofale', 'J.K. Rowling', 'Salani', 14.90, '9788867158171', 332, 'Fantasy');
+INSERT INTO libri (titolo, autore, editore, prezzo, isbn, n_pagine, genere) VALUES ('Il Signore degli Anelli', 'J.R.R. Tolkien', 'Bompiani', 19.90, '9788845292615', 1178, 'Fantasy');
+INSERT INTO libri (titolo, autore, editore, prezzo, isbn, n_pagine, genere) VALUES ('Orgoglio e Pregiudizio', 'Jane Austen', 'Einaudi', 10.90, '9788806226152', 424, 'Romanzo classico');
+INSERT INTO libri (titolo, autore, editore, prezzo, isbn, n_pagine, genere) VALUES ('Il Conte di Montecristo', 'Alexandre Dumas', 'Einaudi', 16.90, '9788806226153', 1244, 'Avventura');
+INSERT INTO libri (titolo, autore, editore, prezzo, isbn, n_pagine, genere) VALUES ('Delitto e Castigo', 'Fedor Dostoevskij', 'Mondadori', 12.90, '9788804668238', 576, 'Romanzo classico');
+INSERT INTO libri (titolo, autore, editore, prezzo, isbn, n_pagine, genere) VALUES ('Il Processo', 'Franz Kafka', 'Feltrinelli', 9.90, '9788807901614', 240, 'Narrativa');
+INSERT INTO libri (titolo, autore, editore, prezzo, isbn, n_pagine, genere) VALUES ('Sapiens', 'Yuval Noah Harari', 'Bompiani', 14.90, '9788845292616', 512, 'Saggistica');
+INSERT INTO libri (titolo, autore, editore, prezzo, isbn, n_pagine, genere) VALUES ('La Divina Commedia', 'Dante Alighieri', 'Mondadori', 11.90, '9788804668239', 798, 'Poesia');
+INSERT INTO libri (titolo, autore, editore, prezzo, isbn, n_pagine, genere) VALUES ('Cent anni di solitudine', 'Gabriel Garcia Marquez', 'Mondadori', 13.90, '9788804668240', 432, 'Realismo magico');

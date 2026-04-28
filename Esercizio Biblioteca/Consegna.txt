@@ -1,0 +1,62 @@
+Si richiede la progettazione e la realizzazione di un’applicazione web
+per la gestione di una biblioteca.
+
+In particolare, il candidato dovrà analizzare il contesto
+proposto e individuare le principali entità e relazioni necessarie a
+rappresentare le informazioni relative a utenti, libri
+e prestiti.
+
+1. Progettazione concettuale
+
+Si richiede la progettazione della base di dati mediante la
+costruzione di uno schema E-R completo, contenente:
+entità con attributi significativi;
+   
+chiavi primarie;
+   
+relazioni con cardinalità;
+   
+eventuali attributi delle relazioni.
+
+2. Progettazione logica
+
+A partire dallo schema E-R, si richiede:
+la trasformazione nello schema relazionale;
+   
+l’indicazione delle chiavi primarie e delle chiavi esterne;
+   
+la normalizzazione delle tabelle (almeno fino alla terza
+   forma normale).
+
+3. Implementazione
+
+Si richiede l’implementazione dello schema logico mediante il
+linguaggio SQL, includendo:   
+creazione delle tabelle (DDL);
+   
+definizione dei vincoli di integrità referenziale;
+   
+eventuali vincoli aggiuntivi (NOT NULL, UNIQUE, ecc.).
+
+4. Sviluppo dell’applicazione web
+
+Si richiede lo sviluppo di un’applicazione web utilizzando il
+linguaggio PHP e un DBMS relazionale (es. MySQL), che consenta la
+gestione di libri.
+
+L’applicazione dovrà prevedere:
+registrazione di nuovi utenti;
+   
+autenticazione (login/logout);
+   
+gestione delle sessioni;
+   
+operazioni CRUD (Create, Read, Update, Delete) su libri;
+   
+funzionalità per gestione dei prestiti.
+
+5. Requisiti aggiuntivi
+
+L’applicazione dovrà:   
+garantire la sicurezza dei dati (es. password cifrate)
+presentare un’interfaccia utente semplice e funzionale.
