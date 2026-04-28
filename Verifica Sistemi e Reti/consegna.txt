@@ -1,0 +1,31 @@
+VERIFICA SeR – Laboratorio (Scenario Alternativo)
+Durata: 3 ore
+L’ente Campus Galileo, un grande istituto scolastico e formativo, è composto da tre edifici collegati
+tramite una rete privata interna.
+Il campus ospita uffici amministrativi, aule didattiche, laboratori informatici e spazi dedicati agli studenti
+e ai visitatori esterni.
+
+Struttura degli edifici
+Edificio A – Segreteria e Direzione
+Piano Terra: Segreteria studenti e amministrazione
+Primo Piano: Direzione e uffici docenti
+Edificio B – Didattica
+Piano Terra: Aule tradizionali
+Primo Piano: Laboratori informatici
+Edificio C – Servizi agli studenti
+Piano Unico: Biblioteca, sale studio e area ristoro
+Nota progettuale: alcune VLAN sono distribuite su più edifici e/o piani.
+Ad esempio:
+la VLAN Docenti è presente sia nell’Edificio A (uffici) sia nell’Edificio B (aule)
+la VLAN Studenti è presente nell’Edificio B (aule) e nell’Edificio C (biblioteca e sale
+studio)
+
+VLAN richieste
+VLAN Reparto Numero dispositivi
+10 Amministrazione e Segreteria 50
+20 Docenti 90
+30 Studenti 300
+40 Laboratori Informatici 120
+50 Ospiti e Visitatori 80
+Ogni VLAN deve appartenere a una sottorete IP differente.
+Realizzare una rete esterna (Internet simulata) collegata alla sede principale tramite un router dedicato.
