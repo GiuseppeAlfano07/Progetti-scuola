@@ -17,5 +17,5 @@ GENERALI --> 1.Registrazione & Login.
 			2.Modifica dati utenti.
 
 Il codice è interamente commentato per facilitarne la lettura a tutti, a livello grafico ho utilizzato il framework "PicoCSS" ed il progetto è stato interamente fatto da me senza l'utilizzo di alcuna ai, ad  eccezione del logo che è stato creato da ClaudeCode.
-Sicuramente avrò dimenticato qualcosa, lo pubblico con la speranza che possa essere utile a qualcuno che debba eseguire la mia stessa consegna.
+Sicuramente avrò dimenticato qualcosa, lo pubblico con la speranza che possa essere utile a qualcuno che si troverà ad eseguire la mia stessa consegna.
 		
