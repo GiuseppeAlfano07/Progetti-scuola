@@ -1,0 +1,3 @@
+Sviluppare un'applicazione in Java che permetta la generazione di un file XML che contenga: 1 elemento radice, al suo interno ci sono N elementi di un determinato tipo che al suo interno contegono M elementi di un determinato tipo. l'utente inserirà gli opportuni valori da tastiera.
+
+suggerimento: utilizzare durante la generazione del file il carattere speciale \t per la spaziatura
