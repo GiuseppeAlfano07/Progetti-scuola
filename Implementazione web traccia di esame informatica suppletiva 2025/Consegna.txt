@@ -1,0 +1,9 @@
+Partendo dalla traccia di esame in allegato, sviluppare i diagrammi richiesti e realizzare l'intero schema del database in SQL e l'applicazione web richiesta.
+
+Consegnare:
+
+1) diagramma E-R
+2) schema relazionale in formato testuale
+3) script SQL di creazione dello schema
+4) query SQL
+5) pagine php
